@@ -1,4 +1,4 @@
 # -MASAKAKI-ILLUMINATI-INDICATOR
-Long/Short Indicator based on EMA for tradingview
+Long/Short Indicator based on EMA for https://www.tradingview.com/
 
-Toturial coming soon
+Tutorial coming soon
