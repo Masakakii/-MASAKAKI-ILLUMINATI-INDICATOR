@@ -3,7 +3,7 @@ study("! MASAKAKI ILLUMINATI INDICATOR", overlay=true)
  
 // Moving Averages to get some example trades generated
 eg1 = ema(close, 5)
-eg2 = ema(close, 32)
+eg2 = ema(close, 13)
  
 long = crossover(eg1, eg2)
 short = crossunder(eg1, eg2)
