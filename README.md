@@ -5,4 +5,9 @@ Copy the code/script from here:
 
 https://github.com/Masakakii/-MASAKAKI-ILLUMINATI-INDICATOR/blob/main/Pine%20script
 
-Tutorial coming soon on Youtube.
+Was this usefull ?
+Consider a tip ! 🙏 
+BTC On chain :bc1qvwfdgrwdmd4g8tghluuvhyxmk37u6rucqzzpwy
+Lightning ⚡️ :unwaryverse59@walletofsatoshi.com
+
+
