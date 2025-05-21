@@ -1,6 +1,6 @@
 # -MASAKAKI-ILLUMINATI-INDICATOR
 
-https://s3.tradingview.com/snapshots/j/j7mFzXJx.png
+![Image](https://github.com/user-attachments/assets/ab13e61b-4e8f-42bd-9733-6d7b42996f85)
 
 
 Long/Short Indicator based on EMA for https://www.tradingview.com/
