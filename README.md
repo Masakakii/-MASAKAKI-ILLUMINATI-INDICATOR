@@ -1,4 +1,8 @@
 # -MASAKAKI-ILLUMINATI-INDICATOR
+
+https://s3.tradingview.com/snapshots/j/j7mFzXJx.png
+
+
 Long/Short Indicator based on EMA for https://www.tradingview.com/
 
 Copy the code/script from here:
