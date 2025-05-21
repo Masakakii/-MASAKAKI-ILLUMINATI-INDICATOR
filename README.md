@@ -253,9 +253,6 @@ https://github.com/Masakakii/-MASAKAKI-ILLUMINATI-INDICATOR/blob/main/Pine%20scr
 
 
 
-Was this usefull ?
-Consider a tip ! 🙏 thank you! 🙏
-
 BTC On chain : bc1qvwfdgrwdmd4g8tghluuvhyxmk37u6rucqzzpwy
 
 Lightning ⚡️ : unwaryverse59@walletofsatoshi.com
