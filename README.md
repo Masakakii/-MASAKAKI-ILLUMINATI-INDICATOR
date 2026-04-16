@@ -255,4 +255,4 @@ https://github.com/Masakakii/-MASAKAKI-ILLUMINATI-INDICATOR/blob/main/Pine%20scr
 
 BTC On chain : bc1qvwfdgrwdmd4g8tghluuvhyxmk37u6rucqzzpwy
 
-Lightning ⚡️ : unwaryverse59@walletofsatoshi.com
+Lightning ⚡️ : showywear944@walletofsatoshi.com
